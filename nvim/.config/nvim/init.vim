@@ -50,6 +50,8 @@ set ignorecase
 
 " Show linenumbers
 set number
+" Set relative lineumbers
+set relativenumber
 
 set showcmd	" show last command in the bottom right
 

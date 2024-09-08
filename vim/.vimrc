@@ -64,8 +64,8 @@ set incsearch	    " search while characters are entered
 " search is case-insensitive by default
 set ignorecase
 
-" Show linenumbers
-set number
+set number " Show linenumbers
+set relativenumber " Set relative linenumbers
 
 set showcmd	" show last command in the bottom right
 
